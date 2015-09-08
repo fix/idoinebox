@@ -360,7 +360,7 @@
     <message>
         <location filename="../src/libsync/connectionvalidator.cpp" line="61"/>
         <source>No ownCloud account configured</source>
-        <translation>Aucun compte ownCloud configuré</translation>
+        <translation>Aucun compte idoineBox configuré</translation>
     </message>
     <message>
         <location filename="../src/libsync/connectionvalidator.cpp" line="117"/>
@@ -1574,7 +1574,7 @@ Il est déconseillé de l&apos;utiliser.</translation>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="357"/>
         <source>creating folder on ownCloud: %1</source>
-        <translation>création d&apos;un répertoire sur ownCloud : %1</translation>
+        <translation>création d&apos;un répertoire sur idoineBox : %1</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetupwizard.cpp" line="373"/>
@@ -2149,7 +2149,7 @@ Il est déconseillé de l&apos;utiliser.</translation>
     <message>
         <location filename="../src/gui/sharedialog.ui" line="63"/>
         <source>ownCloud Path:</source>
-        <translation>Chemin ownCloud :</translation>
+        <translation>Chemin idoineBox :</translation>
     </message>
     <message>
         <location filename="../src/gui/sharedialog.ui" line="182"/>
@@ -3093,7 +3093,7 @@ Il est déconseillé de l&apos;utiliser.</translation>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="85"/>
         <source>Enter the ownCloud username.</source>
-        <translation>Veuillez saisir le nom d&apos;utilisateur ownCloud.</translation>
+        <translation>Veuillez saisir le nom d&apos;utilisateur idoineBox.</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="92"/>
@@ -3103,7 +3103,7 @@ Il est déconseillé de l&apos;utiliser.</translation>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="102"/>
         <source>Enter the ownCloud password.</source>
-        <translation>Veuillez saisir le mot de passe ownCloud.</translation>
+        <translation>Veuillez saisir le mot de passe idoineBox.</translation>
     </message>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="117"/>
@@ -3123,7 +3123,7 @@ Il est déconseillé de l&apos;utiliser.</translation>
     <message>
         <location filename="../src/gui/owncloudsetuppage.ui" line="147"/>
         <source>Enter the url of the ownCloud you want to connect to (without http or https).</source>
-        <translation>Veuillez saisir l&apos;adresse du serveur ownCloud auquel vous souhaitez vous connecter (sans http ni https).</translation>
+        <translation>Veuillez saisir l&apos;adresse du serveur idoineBox auquel vous souhaitez vous connecter (sans http ni https).</translation>
     </message>
     <message>
         <location filename="../src/gui/wizard/owncloudsetupnocredspage.ui" line="83"/>
